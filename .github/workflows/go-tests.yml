@@ -20,7 +20,7 @@ on:
       - misc/bazel/**
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   test-linux:
